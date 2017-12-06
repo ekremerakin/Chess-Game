@@ -1,0 +1,6 @@
+Kb-e8
+Qb-d8
+Rb-a8-h8
+Bb-c8-f8
+Nb-b8-g8
+Pb-a7-b7-c7-d7-e7-f7-g7-h7

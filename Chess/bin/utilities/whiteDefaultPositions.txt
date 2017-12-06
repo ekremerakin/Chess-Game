@@ -1,0 +1,6 @@
+Kw-e1
+Qw-d1
+Rw-a1-h1
+Bw-c1-f1
+Nw-b1-g1
+Pw-a2-b2-c2-d2-e2-f2-g2-h2
